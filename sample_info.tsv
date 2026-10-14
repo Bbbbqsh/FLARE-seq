@@ -1,0 +1,61 @@
+assay	genome	sample_id	sample_name	cell_line	end_type	treatment	rep	r1	r2	output_dir
+FLAREseq	dm6	5OHK1	Kc167_FLAREseq_OH_rep1	Kc167	OH		rep1	raw_data/FLAREseq/dm6/5OHK1/5OHK1_R1.fq.gz	raw_data/FLAREseq/dm6/5OHK1/5OHK1_R2.fq.gz	processed_data/FLAREseq/dm6/5OHK1
+FLAREseq	dm6	5OHK2	Kc167_FLAREseq_OH_rep2	Kc167	OH		rep2	raw_data/FLAREseq/dm6/5OHK2/5OHK2_R1.fq.gz	raw_data/FLAREseq/dm6/5OHK2/5OHK2_R2.fq.gz	processed_data/FLAREseq/dm6/5OHK2
+FLAREseq	dm6	5OHK3	Kc167_FLAREseq_OH_rep3	Kc167	OH		rep3	raw_data/FLAREseq/dm6/5OHK3/5OHK3_R1.fq.gz	raw_data/FLAREseq/dm6/5OHK3/5OHK3_R2.fq.gz	processed_data/FLAREseq/dm6/5OHK3
+FLAREseq	dm6	5OHS1	S2_FLAREseq_OH_rep1	S2	OH		rep1	raw_data/FLAREseq/dm6/5OHS1/5OHS1_R1.fq.gz	raw_data/FLAREseq/dm6/5OHS1/5OHS1_R2.fq.gz	processed_data/FLAREseq/dm6/5OHS1
+FLAREseq	dm6	5OHS2	S2_FLAREseq_OH_rep2	S2	OH		rep2	raw_data/FLAREseq/dm6/5OHS2/5OHS2_R1.fq.gz	raw_data/FLAREseq/dm6/5OHS2/5OHS2_R2.fq.gz	processed_data/FLAREseq/dm6/5OHS2
+FLAREseq	dm6	5OHS3	S2_FLAREseq_OH_rep3	S2	OH		rep3	raw_data/FLAREseq/dm6/5OHS3/5OHS3_R1.fq.gz	raw_data/FLAREseq/dm6/5OHS3/5OHS3_R2.fq.gz	processed_data/FLAREseq/dm6/5OHS3
+FLAREseq	dm6	5pK1	Kc167_FLAREseq_3P_rep1	Kc167	3P		rep1	raw_data/FLAREseq/dm6/5pK1/5pK1_R1.fq.gz	raw_data/FLAREseq/dm6/5pK1/5pK1_R2.fq.gz	processed_data/FLAREseq/dm6/5pK1
+FLAREseq	dm6	5pK2	Kc167_FLAREseq_3P_rep2	Kc167	3P		rep2	raw_data/FLAREseq/dm6/5pK2/5pK2_R1.fq.gz	raw_data/FLAREseq/dm6/5pK2/5pK2_R2.fq.gz	processed_data/FLAREseq/dm6/5pK2
+FLAREseq	dm6	5pK3	Kc167_FLAREseq_3P_rep3	Kc167	3P		rep3	raw_data/FLAREseq/dm6/5pK3/5pK3_R1.fq.gz	raw_data/FLAREseq/dm6/5pK3/5pK3_R2.fq.gz	processed_data/FLAREseq/dm6/5pK3
+FLAREseq	dm6	5pS1	S2_FLAREseq_3P_rep1	S2	3P		rep1	raw_data/FLAREseq/dm6/5pS1/5pS1_R1.fq.gz	raw_data/FLAREseq/dm6/5pS1/5pS1_R2.fq.gz	processed_data/FLAREseq/dm6/5pS1
+FLAREseq	dm6	5pS2	S2_FLAREseq_3P_rep2	S2	3P		rep2	raw_data/FLAREseq/dm6/5pS2/5pS2_R1.fq.gz	raw_data/FLAREseq/dm6/5pS2/5pS2_R2.fq.gz	processed_data/FLAREseq/dm6/5pS2
+FLAREseq	dm6	5pS3	S2_FLAREseq_3P_rep3	S2	3P		rep3	raw_data/FLAREseq/dm6/5pS3/5pS3_R1.fq.gz	raw_data/FLAREseq/dm6/5pS3/5pS3_R2.fq.gz	processed_data/FLAREseq/dm6/5pS3
+FLAREseq	dm6	K1	Kc167_FLAREseq_1P_rep1	Kc167	1P		rep1	raw_data/FLAREseq/dm6/K1/K1_R1.fq.gz	raw_data/FLAREseq/dm6/K1/K1_R2.fq.gz	processed_data/FLAREseq/dm6/K1
+FLAREseq	dm6	K2	Kc167_FLAREseq_1P_rep2	Kc167	1P		rep2	raw_data/FLAREseq/dm6/K2/K2_R1.fq.gz	raw_data/FLAREseq/dm6/K2/K2_R2.fq.gz	processed_data/FLAREseq/dm6/K2
+FLAREseq	dm6	K3	Kc167_FLAREseq_1P_rep3	Kc167	1P		rep3	raw_data/FLAREseq/dm6/K3/K3_R1.fq.gz	raw_data/FLAREseq/dm6/K3/K3_R2.fq.gz	processed_data/FLAREseq/dm6/K3
+FLAREseq	dm6	K4	Kc167_FLAREseq_CAP_rep1	Kc167	CAP		rep1	raw_data/FLAREseq/dm6/K4/K4_R1.fq.gz	raw_data/FLAREseq/dm6/K4/K4_R2.fq.gz	processed_data/FLAREseq/dm6/K4
+FLAREseq	dm6	K5	Kc167_FLAREseq_CAP_rep2	Kc167	CAP		rep2	raw_data/FLAREseq/dm6/K5/K5_R1.fq.gz	raw_data/FLAREseq/dm6/K5/K5_R2.fq.gz	processed_data/FLAREseq/dm6/K5
+FLAREseq	dm6	K6	Kc167_FLAREseq_CAP_rep3	Kc167	CAP		rep3	raw_data/FLAREseq/dm6/K6/K6_R1.fq.gz	raw_data/FLAREseq/dm6/K6/K6_R2.fq.gz	processed_data/FLAREseq/dm6/K6
+FLAREseq	dm6	S1	S2_FLAREseq_1P_rep1	S2	1P		rep1	raw_data/FLAREseq/dm6/S1/S1_R1.fq.gz	raw_data/FLAREseq/dm6/S1/S1_R2.fq.gz	processed_data/FLAREseq/dm6/S1
+FLAREseq	dm6	S2	S2_FLAREseq_1P_rep2	S2	1P		rep2	raw_data/FLAREseq/dm6/S2/S2_R1.fq.gz	raw_data/FLAREseq/dm6/S2/S2_R2.fq.gz	processed_data/FLAREseq/dm6/S2
+FLAREseq	dm6	S3	S2_FLAREseq_1P_rep3	S2	1P		rep3	raw_data/FLAREseq/dm6/S3/S3_R1.fq.gz	raw_data/FLAREseq/dm6/S3/S3_R2.fq.gz	processed_data/FLAREseq/dm6/S3
+FLAREseq	dm6	S4	S2_FLAREseq_CAP_rep1	S2	CAP		rep1	raw_data/FLAREseq/dm6/S4/S4_R1.fq.gz	raw_data/FLAREseq/dm6/S4/S4_R2.fq.gz	processed_data/FLAREseq/dm6/S4
+FLAREseq	dm6	S5	S2_FLAREseq_CAP_rep2	S2	CAP		rep2	raw_data/FLAREseq/dm6/S5/S5_R1.fq.gz	raw_data/FLAREseq/dm6/S5/S5_R2.fq.gz	processed_data/FLAREseq/dm6/S5
+FLAREseq	dm6	S6	S2_FLAREseq_CAP_rep3	S2	CAP		rep3	raw_data/FLAREseq/dm6/S6/S6_R1.fq.gz	raw_data/FLAREseq/dm6/S6/S6_R2.fq.gz	processed_data/FLAREseq/dm6/S6
+FLAREseq	hg38	5CAPG1	HepG2_FLAREseq_cap_rep1	HepG2	CAP		rep1	raw_data/FLAREseq/hg38/5CAPG1/5CAPG1_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPG1/5CAPG1_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPG1
+FLAREseq	hg38	5CAPG2	HepG2_FLAREseq_cap_rep2	HepG2	CAP		rep2	raw_data/FLAREseq/hg38/5CAPG2/5CAPG2_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPG2/5CAPG2_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPG2
+FLAREseq	hg38	5CAPG3	HepG2_FLAREseq_cap_rep3	HepG2	CAP		rep3	raw_data/FLAREseq/hg38/5CAPG3/5CAPG3_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPG3/5CAPG3_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPG3
+FLAREseq	hg38	5CAPU1	U87_FLAREseq_cap_rep1	U87	CAP		rep1	raw_data/FLAREseq/hg38/5CAPU1/5CAPU1_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPU1/5CAPU1_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPU1
+FLAREseq	hg38	5CAPU2	U87_FLAREseq_cap_rep2	U87	CAP		rep2	raw_data/FLAREseq/hg38/5CAPU2/5CAPU2_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPU2/5CAPU2_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPU2
+FLAREseq	hg38	5CAPU3	U87_FLAREseq_cap_rep3	U87	CAP		rep3	raw_data/FLAREseq/hg38/5CAPU3/5CAPU3_R1.fq.gz	raw_data/FLAREseq/hg38/5CAPU3/5CAPU3_R2.fq.gz	processed_data/FLAREseq/hg38/5CAPU3
+FLAREseq	hg38	5OHG1	HepG2_FLAREseq_OH_rep1	HepG2	OH		rep1	raw_data/FLAREseq/hg38/5OHG1/5OHG1_R1.fq.gz	raw_data/FLAREseq/hg38/5OHG1/5OHG1_R2.fq.gz	processed_data/FLAREseq/hg38/5OHG1
+FLAREseq	hg38	5OHG2	HepG2_FLAREseq_OH_rep2	HepG2	OH		rep2	raw_data/FLAREseq/hg38/5OHG2/5OHG2_R1.fq.gz	raw_data/FLAREseq/hg38/5OHG2/5OHG2_R2.fq.gz	processed_data/FLAREseq/hg38/5OHG2
+FLAREseq	hg38	5OHG3	HepG2_FLAREseq_OH_rep3	HepG2	OH		rep3	raw_data/FLAREseq/hg38/5OHG3/5OHG3_R1.fq.gz	raw_data/FLAREseq/hg38/5OHG3/5OHG3_R2.fq.gz	processed_data/FLAREseq/hg38/5OHG3
+FLAREseq	hg38	5OHU1	U87_FLAREseq_OH_rep1	U87	OH		rep1	raw_data/FLAREseq/hg38/5OHU1/5OHU1_R1.fq.gz	raw_data/FLAREseq/hg38/5OHU1/5OHU1_R2.fq.gz	processed_data/FLAREseq/hg38/5OHU1
+FLAREseq	hg38	5OHU2	U87_FLAREseq_OH_rep2	U87	OH		rep2	raw_data/FLAREseq/hg38/5OHU2/5OHU2_R1.fq.gz	raw_data/FLAREseq/hg38/5OHU2/5OHU2_R2.fq.gz	processed_data/FLAREseq/hg38/5OHU2
+FLAREseq	hg38	5OHU3	U87_FLAREseq_OH_rep3	U87	OH		rep3	raw_data/FLAREseq/hg38/5OHU3/5OHU3_R1.fq.gz	raw_data/FLAREseq/hg38/5OHU3/5OHU3_R2.fq.gz	processed_data/FLAREseq/hg38/5OHU3
+FLAREseq	hg38	5PG1	HepG2_FLAREseq_3P_rep1	HepG2	3P		rep1	raw_data/FLAREseq/hg38/5PG1/5PG1_R1.fq.gz	raw_data/FLAREseq/hg38/5PG1/5PG1_R2.fq.gz	processed_data/FLAREseq/hg38/5PG1
+FLAREseq	hg38	5PG2	HepG2_FLAREseq_3P_rep2	HepG2	3P		rep2	raw_data/FLAREseq/hg38/5PG2/5PG2_R1.fq.gz	raw_data/FLAREseq/hg38/5PG2/5PG2_R2.fq.gz	processed_data/FLAREseq/hg38/5PG2
+FLAREseq	hg38	5PG3	HepG2_FLAREseq_3P_rep3	HepG2	3P		rep3	raw_data/FLAREseq/hg38/5PG3/5PG3_R1.fq.gz	raw_data/FLAREseq/hg38/5PG3/5PG3_R2.fq.gz	processed_data/FLAREseq/hg38/5PG3
+FLAREseq	hg38	5pU1	U87_FLAREseq_3P_rep1	U87	3P		rep1	raw_data/FLAREseq/hg38/5pU1/5pU1_R1.fq.gz	raw_data/FLAREseq/hg38/5pU1/5pU1_R2.fq.gz	processed_data/FLAREseq/hg38/5pU1
+FLAREseq	hg38	5pU2	U87_FLAREseq_3P_rep2	U87	3P		rep2	raw_data/FLAREseq/hg38/5pU2/5pU2_R1.fq.gz	raw_data/FLAREseq/hg38/5pU2/5pU2_R2.fq.gz	processed_data/FLAREseq/hg38/5pU2
+FLAREseq	hg38	5pU3	U87_FLAREseq_3P_rep3	U87	3P		rep3	raw_data/FLAREseq/hg38/5pU3/5pU3_R1.fq.gz	raw_data/FLAREseq/hg38/5pU3/5pU3_R2.fq.gz	processed_data/FLAREseq/hg38/5pU3
+FLAREseq	hg38	G1	HepG2_FLAREseq_1P_rep1	HepG2	1P		rep1	raw_data/FLAREseq/hg38/G1/G1_R1.fq.gz	raw_data/FLAREseq/hg38/G1/G1_R2.fq.gz	processed_data/FLAREseq/hg38/G1
+FLAREseq	hg38	G2	HepG2_FLAREseq_1P_rep2	HepG2	1P		rep2	raw_data/FLAREseq/hg38/G2/G2_R1.fq.gz	raw_data/FLAREseq/hg38/G2/G2_R2.fq.gz	processed_data/FLAREseq/hg38/G2
+FLAREseq	hg38	G3	HepG2_FLAREseq_1P_rep3	HepG2	1P		rep3	raw_data/FLAREseq/hg38/G3/G3_R1.fq.gz	raw_data/FLAREseq/hg38/G3/G3_R2.fq.gz	processed_data/FLAREseq/hg38/G3
+FLAREseq	hg38	U1	U87_FLAREseq_1P_rep1	U87	1P		rep1	raw_data/FLAREseq/hg38/U1/U1_R1.fq.gz	raw_data/FLAREseq/hg38/U1/U1_R2.fq.gz	processed_data/FLAREseq/hg38/U1
+FLAREseq	hg38	U2	U87_FLAREseq_1P_rep2	U87	1P		rep2	raw_data/FLAREseq/hg38/U2/U2_R1.fq.gz	raw_data/FLAREseq/hg38/U2/U2_R2.fq.gz	processed_data/FLAREseq/hg38/U2
+FLAREseq	hg38	U3	U87_FLAREseq_1P_rep3	U87	1P		rep3	raw_data/FLAREseq/hg38/U3/U3_R1.fq.gz	raw_data/FLAREseq/hg38/U3/U3_R2.fq.gz	processed_data/FLAREseq/hg38/U3
+FLARE-SHAPE-MaP	dm6	KSD-1	Kc167-1P_FLARE-SHAPE-MaP_DMSO_rep1	Kc167	1P	DMSO	rep1	raw_data/FLARE-SHAPE-MaP/dm6/KSD-1/KSD-1_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSD-1/KSD-1_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSD-1
+FLARE-SHAPE-MaP	dm6	KSD-2	Kc167-1P_FLARE-SHAPE-MaP_DMSO_rep2	Kc167	1P	DMSO	rep2	raw_data/FLARE-SHAPE-MaP/dm6/KSD-2/KSD-2_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSD-2/KSD-2_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSD-2
+FLARE-SHAPE-MaP	dm6	KSD-3	Kc167-1P_FLARE-SHAPE-MaP_DMSO_rep3	Kc167	1P	DMSO	rep3	raw_data/FLARE-SHAPE-MaP/dm6/KSD-3/KSD-3_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSD-3/KSD-3_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSD-3
+FLARE-SHAPE-MaP	dm6	KSN-1	Kc167-1P_FLARE-SHAPE-MaP_NAIN3_rep1	Kc167	1P	NAIN3	rep1	raw_data/FLARE-SHAPE-MaP/dm6/KSN-1/KSN-1_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSN-1/KSN-1_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSN-1
+FLARE-SHAPE-MaP	dm6	KSN-2	Kc167-1P_FLARE-SHAPE-MaP_NAIN3_rep2	Kc167	1P	NAIN3	rep2	raw_data/FLARE-SHAPE-MaP/dm6/KSN-2/KSN-2_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSN-2/KSN-2_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSN-2
+FLARE-SHAPE-MaP	dm6	KSN-3	Kc167-1P_FLARE-SHAPE-MaP_NAIN3_rep3	Kc167	1P	NAIN3	rep3	raw_data/FLARE-SHAPE-MaP/dm6/KSN-3/KSN-3_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/KSN-3/KSN-3_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/KSN-3
+FLARE-SHAPE-MaP	dm6	SSD-1	S2-1P_FLARE-SHAPE-MaP_DMSO_rep1	S2	1P	DMSO	rep1	raw_data/FLARE-SHAPE-MaP/dm6/SSD-1/SSD-1_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSD-1/SSD-1_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSD-1
+FLARE-SHAPE-MaP	dm6	SSD-2	S2-1P_FLARE-SHAPE-MaP_DMSO_rep2	S2	1P	DMSO	rep2	raw_data/FLARE-SHAPE-MaP/dm6/SSD-2/SSD-2_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSD-2/SSD-2_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSD-2
+FLARE-SHAPE-MaP	dm6	SSD-3	S2-1P_FLARE-SHAPE-MaP_DMSO_rep3	S2	1P	DMSO	rep3	raw_data/FLARE-SHAPE-MaP/dm6/SSD-3/SSD-3_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSD-3/SSD-3_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSD-3
+FLARE-SHAPE-MaP	dm6	SSN-1	S2-1P_FLARE-SHAPE-MaP_NAIN3_rep1	S2	1P	NAIN3	rep1	raw_data/FLARE-SHAPE-MaP/dm6/SSN-1/SSN-1_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSN-1/SSN-1_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSN-1
+FLARE-SHAPE-MaP	dm6	SSN-2	S2-1P_FLARE-SHAPE-MaP_NAIN3_rep2	S2	1P	NAIN3	rep2	raw_data/FLARE-SHAPE-MaP/dm6/SSN-2/SSN-2_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSN-2/SSN-2_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSN-2
+FLARE-SHAPE-MaP	dm6	SSN-3	S2-1P_FLARE-SHAPE-MaP_NAIN3_rep3	S2	1P	NAIN3	rep3	raw_data/FLARE-SHAPE-MaP/dm6/SSN-3/SSN-3_R1.fq.gz	raw_data/FLARE-SHAPE-MaP/dm6/SSN-3/SSN-3_R2.fq.gz	processed_data/FLARE-SHAPE-MaP/dm6/SSN-3
